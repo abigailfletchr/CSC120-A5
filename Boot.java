@@ -18,12 +18,20 @@ public class Boot {
      */
     public void display() {
         if (this.direction.equals("left")) {
-          System.out.println("Left boot?");
+          
+
         } else if (this.direction.equals("right")) {
-          System.out.println("Right boot?");
+          System.out.println(" (____ / <|");
+          System.out.println(" (___ /  <|");
+          System.out.println(" (__ /   L`--------.");
+          System.out.println(" /  `.    ^^^^^ |   \\");
+          System.out.println("|     \\---------'    |");
+          System.out.println("|______|____________/]");
+          System.out.println("[_____|`-.__________]");
         } else {
           System.out.println("Which boot?");
         }
+
     }
 
     /* main method (for testing) */
