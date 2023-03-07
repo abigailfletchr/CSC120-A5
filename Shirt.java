@@ -10,7 +10,13 @@ public class Shirt {
      * TODO: Modify this method to print ASCII Art Shirt
      */
     public void display() {
-        System.out.println("Shirt?);
+        System.out.println("   ___ ___");
+        System.out.println(" /| |/|\\| |\\");
+        System.out.println("/_| ´ |.` |_\\");
+        System.out.println("  |   |.  |");
+        System.out.println("  |   |.  |");
+        System.out.println("  |   |.  |");
+
     }
 
     /* main method (for testing) */
