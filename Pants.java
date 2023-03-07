@@ -10,7 +10,12 @@ public class Pants {
      * TODO: Modify this method to print ASCII Art Pants
      */
     public void display() {
-        System.out.println("Pants?);
+        System.out.println(",==c==.");
+        System.out.println("|_/|\\_|");
+        System.out.println("| ´|` |");
+        System.out.println("|  |  |");
+        System.out.println("|  |  |");
+        System.out.println("|__|__|");
     }
 
     /* main method (for testing) */
